@@ -28,7 +28,7 @@ Options
       --safe            safe adjust threads and av settings for current cpu \
       --nicehash        enable nicehash support \
   -h, --help            display this help and exit \
-  -V, --version         output version information and exit \
+  -V, --version         output version information and exit 
   
 _Note: this is a latest build of C classic version of the xmrig_
 
