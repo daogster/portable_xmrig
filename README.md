@@ -1,4 +1,4 @@
-# Portable xmrig for linux, 18 Otcober protocol supported 
+# Portable xmrig for linux, 18 October protocol supported 
 
 Usage
 ---
