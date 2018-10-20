@@ -1,7 +1,7 @@
 # Portable xmrig for linux, 18 October protocol supported 
 
-## Download
-[Download here...](https://github.com/SecurityOfficerAlfaZulu/portable_xmrig/releases/download/0.9.0/xmrig)
+## Downloads
+You can download latest release [here...](https://github.com/SecurityOfficerAlfaZulu/portable_xmrig/releases/download/0.9.0/xmrig)
 
 Usage
 ---
