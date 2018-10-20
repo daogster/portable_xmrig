@@ -30,5 +30,5 @@ Options
   -h, --help            display this help and exit \
   -V, --version         output version information and exit \
   
-...Note: this is a latest build of C classic vesrion of the xmrig 
+_Note: this is a latest build of C classic version of the xmrig_
 
