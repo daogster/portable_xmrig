@@ -30,6 +30,5 @@ Options
   -h, --help            display this help and exit \
   -V, --version         output version information and exit \
   
-```javascript 
-Note: this is latest build of C classic vesrion of xmrig 
-``` 
+...Note: this is a latest build of C classic vesrion of the xmrig 
+
