@@ -36,3 +36,7 @@ Options
   
 _Note: this is a latest build of C classic version of the xmrig_
 
+
+
+<meta name="google-site-verification" content="kH7s4pxjsqAw5ZTn3MhOptGRXJgHSWHHrLt5kdT-LLw" />
+
